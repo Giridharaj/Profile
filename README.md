@@ -14,7 +14,7 @@ I'm a **Computer Science graduate** (B.Tech, CCE — Sri Manakula Vinayagar Engi
 - 🎓 GPA: **8.12 / 10.0**
 - 📍 Based in **Puducherry, India**
 - 📬 [rajgiridhar03@gmail.com](mailto:rajgiridhar03@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/Giridharaj) · [Portfolio](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/giridharraja08919258/) · [Portfolio](https://giridharaj.github.io/Giridhar-s-Portfolio/)
 - 🔭 Currently exploring: **Quantum Key Distribution & ML in healthcare**
 - 💡 Open to: Entry-level **Software Engineering** and **Data Analysis** roles
 
